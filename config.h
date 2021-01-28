@@ -7,7 +7,8 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { 
 	"Cantarell:size=10",
-	"fontawesome:size=10",
+	"fontawesome:size=10"
+	"Noto:size=10",
 };
 static const char dmenufont[]       = "Cantarell:size=10";
 // Background Color 
